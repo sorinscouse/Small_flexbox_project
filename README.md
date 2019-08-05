@@ -1,2 +1,3 @@
 # Small_flexbox_project
-A small project using flexbox
+
+* This is a [small project] (https://sorinscouse.github.io/Small_flexbox_project/) using Flexbox.
